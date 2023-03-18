@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <title>Lab1</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Weather app</h1>
+    </header>
+
+    <main>
+        <div class="app_top"></div>
+        <input type="text" placeholder="Podaj nazwę miasta">
+        <button>Search</button>
+        <p class="error"></p>
+        </div>
+
+        <div class="app_button">
+            <p class="date"></p>
+            <h2 class="city_name"></h2>
+            <div class="weather_box">
+                <div class="temperature_box">
+                    <p class="temperature"></p>
+                    <p class="temperature_description"></p>
+                    <img src="" alt="">
+                </div>
+            </div>
+            <p>Temperature: <span class="city_temperature"></span></p>
+            <p>Humidity: <span class="humidity"></span></p>
+            <p>Pressure: <span class="pressure"></span></p>
+            <p>Wind speed: <span class="wind"></span></p>
+            <p>Clouds: <span class="clouds"></span></p>
+        </div>
+    </main>
+
+    <footer>
+            <h3>Best way to check Weather!</h3>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+    <script src="enterPress.js"></script>
+</body>
+</html>
