@@ -1,6 +1,6 @@
 # WeatherApp
 
-![Lab1 - Google Chrome 2023-03-20 20-56-01](https://user-images.githubusercontent.com/94892289/226451949-a31ff366-ddd3-4a9d-a85b-80b9decbd783.gif)
+![Lab1 - Google Chrome 2023-04-26 22-09-36](https://user-images.githubusercontent.com/94892289/234691630-87625994-817a-426f-8d98-39732d843a42.gif)
 
 <br>
 
